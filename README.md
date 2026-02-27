@@ -176,15 +176,7 @@ Ranked by revenue contribution with retention recommendations.
 
 ---
 
-## 5. Dubai Root Cause Analysis
-
-Interview Explanation:
-
-“I filtered the Pivot Table by Region = Dubai and compared Month-over-Month performance. Total bookings declined by 20%. When segmented by Platform, Offline bookings remained stable while App bookings dropped sharply. This suggests a technical issue within the App booking flow for Dubai routes rather than a demand-side problem. My recommendation is a QA audit of the Dubai App funnel followed by a temporary agent incentive campaign.”
-
----
-
-## 6. Tools Used
+## 5. Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -195,7 +187,7 @@ Interview Explanation:
 
 ---
 
-## 7. Business Impact
+## 6. Business Impact
 
 If implemented in a real business environment, this analysis could enable:
 
@@ -206,10 +198,7 @@ If implemented in a real business environment, this analysis could enable:
 
 ---
 
-
----
-
-## 9. Author
+## 7. Author
 # Mohit Vishwakarma
 # MBA [ Business Analytics ]
 
