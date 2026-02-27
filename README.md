@@ -1,5 +1,3 @@
-Below is your **clean, structured, recruiter-ready README.md**.
-You can copy and paste this directly into your GitHub repository.
 
 ---
 
