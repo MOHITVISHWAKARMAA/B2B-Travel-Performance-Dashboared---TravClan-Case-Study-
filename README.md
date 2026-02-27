@@ -4,7 +4,11 @@
 # B2B Travel Analytics Dashboard
 
 Excel-Based Business Intelligence Project | 10,000 Records | KPI + RFM + Root Cause Analysis
-
+<img width="1431" height="632" alt="image" src="https://github.com/user-attachments/assets/f451839d-0087-4075-ac65-1728fced9cc8" />
+<img width="1007" height="665" alt="image" src="https://github.com/user-attachments/assets/019bde35-e676-4830-9f9c-ef150e270539" />
+<img width="551" height="681" alt="image" src="https://github.com/user-attachments/assets/2a93c1cf-d093-468d-b9f2-7776b0538c4d" />
+<img width="770" height="590" alt="image" src="https://github.com/user-attachments/assets/d7194ed9-bf93-46b1-9555-720b491b536a" />
+<img width="1903" height="1008" alt="image" src="https://github.com/user-attachments/assets/ec04a243-f9ae-4b9d-b88d-b361bcaff87e" />
 ---
 
 ## 1. Project Overview
